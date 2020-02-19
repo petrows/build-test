@@ -1,6 +1,6 @@
 node {
 	script {
-		echo "Hello world!"
+		echo "Hello world 2!"
 	}
 }
 
